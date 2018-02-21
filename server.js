@@ -12,11 +12,11 @@ app.get('artical-one',function(req,res){
     res.send('artical one requested and will be served here');
 });
 
-app.get('artical-one',function(req,res){
+app.get('artical-two',function(req,res){
     res.send('artical two requested and will be served here');
 });
 
-app.get('artical-one',function(req,res){
+app.get('artical-three',function(req,res){
     res.send('artical three requested and will be served here');
 });
 
